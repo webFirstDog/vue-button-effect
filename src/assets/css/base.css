@@ -1,0 +1,9 @@
+
+*,
+*:after,
+*:before {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body { background-color: #F3F3F3; color: #37474f; font-weight: 400; font-size: 1em; font-family: 'Raleway', Arial, sans-serif; }
