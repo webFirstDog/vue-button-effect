@@ -23,6 +23,7 @@ npm install vue-button-effect -S
 import vueButtonEffect from 'vue-button-effect'
 Vue.use(vueButtonEffect)
 
+// ***.vue
 <template>
   <g-button-wave color="primary" size="button--size-m">Primary</g-button-wave>
 	...
