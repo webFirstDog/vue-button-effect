@@ -50,10 +50,19 @@ export default {
 | ------------------------------------------------------------ |
 | g-button-wave&nbsp;&nbsp;&nbsp;&nbsp;g-button-ujarak&nbsp;&nbsp;&nbsp;g-button-winona&nbsp;&nbsp;&nbsp;g-button-wayra&nbsp;&nbsp;&nbsp;g-button-tamaya&nbsp;&nbsp;&nbsp;&nbsp;g-button-rayen<br>g-button-pipaluk&nbsp;&nbsp;&nbsp;g-button-nuka&nbsp;&nbsp;&nbsp;g-button-moema&nbsp;&nbsp;&nbsp;&nbsp;g-button-isi&nbsp;&nbsp;&nbsp;g-button-aylen&nbsp;&nbsp;&nbsp;g-button-nina<br>g-button-nanuk&nbsp;&nbsp;&nbsp;&nbsp;g-button-sacnite |
 
-| 参数（属性） | 描述       | 类型   | 默认值          | 示例                  |
-| ------------ | ---------- | ------ | --------------- | --------------------- |
-| color        | button颜色 | String | -               | color="primary"       |
-| size         | button大小 | String | button--size-ss | size="button--size-m" |
+| 参数（属性）                               | 描述       | 类型   | 默认值          | 示例                  |
+| ------------------------------------------ | ---------- | ------ | --------------- | --------------------- |
+| color                                      | button颜色 | String | -               | color="primary"       |
+| size                                       | button大小 | String | button--size-ss | size="button--size-m" |
+| gText （此属性仅适用于 nina、 nanuk 按钮） | button名   | String | -               | gText="提交"          |
+
+| color属性可选值：                                            |
+| ------------------------------------------------------------ |
+| primary     dark-primary     light-primary    <br>success     warning     error     info |
+
+| size属性可选值：                                             |
+| ------------------------------------------------------------ |
+| button--size-ss    button--size-s    button--size-m    button--size-l |
 
 
 
