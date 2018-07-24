@@ -58,11 +58,11 @@ export default {
 
 | color属性可选值：                                            |
 | ------------------------------------------------------------ |
-| primary       dark-primary       light-primary     success       warning       error       info |
+| primary   \|    dark-primary   \|    light-primary   \|  success   \|    warning    \|   error       info |
 
 | size属性可选值：                                             |
 | ------------------------------------------------------------ |
-| button--size-ss       button--size-s      button--size-m      button--size-l |
+| button--size-ss   \|    button--size-s   \|   button--size-m   \|   button--size-l |
 
 
 
