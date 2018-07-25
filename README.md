@@ -13,7 +13,7 @@ Modern browsers and Internet Explorer 10+
 ## Install
 
 ```bash
-npm install vue-button-effect -S
+npm i vue-button-effect
 ```
 
 ## Quick Start
